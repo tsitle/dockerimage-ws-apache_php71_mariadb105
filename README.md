@@ -1,4 +1,4 @@
-# Apache2 + PHP 7.1 + MariaDB 10.3 Client Docker Image for AARCH64, ARMv7l, X86 and X64
+# Apache2 + PHP 7.1 + MariaDB 10.3 Client Docker Image for AARCH64, ARMv7l and X64
 
 For hosting PHP powered websites.
 
