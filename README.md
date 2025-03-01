@@ -1,4 +1,4 @@
-# Apache2 + PHP 7.1 + MariaDB 10.3 Client Docker Image for AARCH64, ARMv7l and X64
+# Apache2 + PHP 7.1 + MariaDB 10.5 Client Docker Image for AARCH64, ARMv7l and X64
 
 For hosting PHP powered websites.
 
@@ -7,7 +7,7 @@ For hosting PHP powered websites.
 - Docker Image **tsle/ws-apache-base** (see [https://github.com/tsitle/dockerimage-ws-apache_base](https://github.com/tsitle/dockerimage-ws-apache_base))
 	- PHP 7.1 (CLI + FPM)
 	- PHP packages (see below)
-	- MariaDB Client 10.5 (^= MySQL 5.7/8.0)
+	- MariaDB Client 10.5 (^= MySQL 8.0)
 	- php-pear
 	- xml-core
 
